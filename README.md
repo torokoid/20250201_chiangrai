@@ -135,7 +135,7 @@ p.note { display: none; }
 <h2><span class="yellow">日の出も綺麗です 朝7:14</span></h2>
 <a href="20250201_003.jpeg" target="_blank"><img src="20250201_003.jpeg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">地方選挙の投票も終わり、立候補者が配ったお小遣いで焼肉買ってパーティー</span></h2>
+<h2><span class="yellow">地方選挙の投票も終わり、立候補者が配ったお小遣い持ち寄って焼肉パーティー</span></h2>
 <a href="20250201_004.jpeg" target="_blank"><img src="20250201_004.jpeg" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">日本だったら大ニュースですが、No無しのバイクが走るタイではごく日常</span></h2>
