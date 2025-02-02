@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20250201_chiangrai/20250201_055.jpeg) center/cover no-repeat;
+background:url(https://torokoid.github.io/20250201_chiangrai/20250201_060.jpeg) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -135,7 +135,7 @@ p.note { display: none; }
 <h2><span class="yellow">日の出も綺麗です 朝7:14</span></h2>
 <a href="20250201_003.jpeg" target="_blank"><img src="20250201_003.jpeg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">地方選挙の投票も終わり、候補者が配ったお小遣いで焼肉買ってパーティー</span></h2>
+<h2><span class="yellow">地方選挙の投票も終わり、立候補者が配ったお小遣いで焼肉買ってパーティー</span></h2>
 <a href="20250201_004.jpeg" target="_blank"><img src="20250201_004.jpeg" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">日本だったら大ニュースですが、No無しのバイクが走るタイではごく日常</span></h2>
@@ -147,14 +147,14 @@ p.note { display: none; }
 <h2><span class="yellow">横の木の下にあった仏壇は、今日も見事に祀られていました</span></h2>
 <a href="20250201_007.jpeg" target="_blank"><img src="20250201_007.jpeg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">メーファールーアン大学の学生さんが飼い猫を預けに来てました<br>卒業前の８ヶ月海外研修対応とのこと</span></h2>
+<h2><span class="yellow">メーファールーアン大学の学生さんが飼い猫を預けに来てました<br>卒業前の８ヶ月海外研修で不在になるためでした</span></h2>
 <a href="20250201_008.jpeg" target="_blank"><img src="20250201_008.jpeg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">ネコのトリミングのお店の向かいには、先週気づかなかったお店がいくつか見えます</span></h2>
+<h2><span class="yellow">ネコのトリミングのお店の川を挟んだ向かい側には、先週気づかなかったお店がいくつか見えます</span></h2>
 <a href="20250201_009.jpeg" target="_blank"><img src="20250201_009.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="20250201_010.jpeg" target="_blank"><img src="20250201_010.jpeg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">白は普通の民家ですが、台所がオープン構造なのは一般的</span></h2>
+<h2><span class="yellow">白は普通の民家ですが、台所がオープンで川を眺めながら食事できます</span></h2>
 <a href="20250201_011.jpeg" target="_blank"><img src="20250201_011.jpeg" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">ちょっと離れたペットショップのお客さんも、いかにも学生さんという若さ</span></h2>
@@ -231,7 +231,7 @@ p.note { display: none; }
 <h2><span class="yellow">知り合いが川で釣り上げた大物を売りに来ました<br>40BT/kg、8kgを320バーツで購入</span></h2>
 <a href="20250201_067.jpeg" target="_blank"><img src="20250201_067.jpeg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">夕焼けグラデーションに細い月が浮かびました<br>金星との距離も近づいて綺麗なので画像は全部あげました</span></h2>
+<h2><span class="yellow">夕焼けグラデーションに細い月が浮かびました<br>金星との距離も近づいて綺麗なので画像は全部あげました<br>この先のデータはやや重めなので読み込みに時間がかかるかも</span></h2>
 <a href="20250201_042.jpeg" target="_blank"><img src="20250201_042.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="20250201_043.jpeg" target="_blank"><img src="20250201_043.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="20250201_044.jpeg" target="_blank"><img src="20250201_044.jpeg" alt="サンプル画像" width="900" /></a>
