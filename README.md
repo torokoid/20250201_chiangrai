@@ -165,7 +165,7 @@ p.note { display: none; }
 <a href="20250201_013.jpeg" target="_blank"><img src="20250201_013.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="20250201_014.jpeg" target="_blank"><img src="20250201_014.jpeg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">うちの猫ちゃんは、尻尾がデザインちっくになりました</span></h2>
+<h2><span class="yellow">うちの猫ちゃんは、尻尾がハタキみたいになりました</span></h2>
 <a href="20250201_068.jpeg" target="_blank"><img src="20250201_068.jpeg" alt="サンプル画像" width="900" /></a>
 
 
