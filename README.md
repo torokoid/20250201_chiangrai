@@ -252,6 +252,8 @@ p.note { display: none; }
 <a href="20250201_059.jpeg" target="_blank"><img src="20250201_059.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="20250201_060.jpeg" target="_blank"><img src="20250201_060.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="20250201_061.jpeg" target="_blank"><img src="20250201_061.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">金星と月、その下は土星です</span></h2>
 <a href="20250201_062.jpeg" target="_blank"><img src="20250201_062.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="20250201_063.jpeg" target="_blank"><img src="20250201_063.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="20250201_064.jpeg" target="_blank"><img src="20250201_064.jpeg" alt="サンプル画像" width="900" /></a>
