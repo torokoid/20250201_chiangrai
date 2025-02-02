@@ -147,7 +147,7 @@ p.note { display: none; }
 <h2><span class="yellow">横の木の下にあった仏壇は、今日も見事に祀られていました</span></h2>
 <a href="20250201_007.jpeg" target="_blank"><img src="20250201_007.jpeg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">メーファールーアン大学の学生さんが飼い猫を預けに来てました<br>卒業前の８ヶ月海外研修で不在になるためでした</span></h2>
+<h2><span class="yellow">メーファールーアン大学の学生さんが飼い猫を預けに来てました<br>卒業前の８ヶ月海外研修で不在になるためとのこと</span></h2>
 <a href="20250201_008.jpeg" target="_blank"><img src="20250201_008.jpeg" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">ネコのトリミングのお店の川を挟んだ向かい側には、先週気づかなかったお店がいくつか見えます</span></h2>
